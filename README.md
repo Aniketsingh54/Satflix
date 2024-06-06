@@ -1,2 +1,2 @@
-# YouTubeClone
-simple clone
+# Satflix
+enjoy your custom streaming platform
